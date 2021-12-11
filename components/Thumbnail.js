@@ -71,7 +71,7 @@ function Thumbnail({result}) {
           group-hover:font-bold ">
               {result.title || result.original_name}
           </h2>
-          <button className="flex items-center text-xl ml-4 px-2 rounded-lg pb-1 mt-1 bg-purple-500
+          <button className="flex items-center text-xl ml-4 px-2 rounded-lg sm:pb-1 mt-1 bg-purple-500
           hover:bg-purple-400 max-h-8" onClick={() => handleClick(result)}>Play</button>
           </div>
 
