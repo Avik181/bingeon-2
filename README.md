@@ -1,5 +1,5 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-This project uses Tailwind CSS for styling.
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).<br>
+This project uses Tailwind CSS for styling. I have used TMDB api to build this project.
 
 ## Getting Started
 
